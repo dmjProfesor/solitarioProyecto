@@ -1,1 +1,1 @@
-# Mi proyecto colaborativo
+# Mi proyecto colaborativo.
